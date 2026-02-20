@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Pradhan</h1>
 <h3 align="center">A passionate frontend developer. Currently the Main Website Developer and The Technical Lead of GameLiminals.</h3>
 
-<p align="left"> <img src="https://sayandeep0212.github.io/portfolio/sayandeep.jpeg" alt="sayandeep0212" /> </p>
+<p align="left"> <img src="https://sayandeep0212.github.io/portfolio/sayandeep.jpeg" alt="sayandeep0212" width="200"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandeep0212" alt="sayandeep0212" /></a> </p>
 
