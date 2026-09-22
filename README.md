@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Pradhan</h1>
-<h3 align="center">A passionate frontend developer. Currently the Main Website Developer and The Technical Lead of GameLiminals.</h3>
+<h3 align="center">A passionate Full Stack developer. Currently the Main Website Developer and The Technical Lead of GameLiminals.</h3>
 
 <p align="left"> <img src="https://sayandeep0212.github.io/portfolio/sayandeep.jpeg" alt="sayandeep0212" width="200"/> </p>
 
 # 💫 About Me:
-👋 19 y/o Full Stack Developer  <br>🚀 Tech Lead & Main Website Developer @ GameLiminals and VibeForge 1.0 Hackathon <br>💻 Frontend: Next.js, React.js, TypeScript, Tailwind CSS  <br>⚙️ Backend: Node.js  <br>🧠 Languages: JavaScript, Python, HTML, CSS  <br>🗄️ Databases & BaaS: Firebase, Supabase  <br>🛠️ Tools: Git, GitHub, npm  <br>☁️ Deployment: Netlify, Vercel  <br>📒 Workflow & Planning: Notion  <br>🌱 Always learning, building & improving  
+👋 20 y/o Full Stack Developer  <br>🚀 Tech Lead & Main Website Developer @ GameLiminals and VibeForge 1.0 Hackathon <br>💻 Frontend: Next.js, React.js, TypeScript, Tailwind CSS, Framer Motion  <br>⚙️ Backend: Node.js  <br>🧠 Languages: JavaScript, Python, HTML, CSS  <br>🗄️ Databases & BaaS: Firebase, Supabase  <br>🛠️ Tools: Git, GitHub, npm  <br>☁️ Deployment: Netlify, Vercel  <br>📒 Workflow & Planning: Notion  <br>🌱 Always learning, building & improving  
 
 
 ## 🌐 Socials:
