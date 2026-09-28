@@ -25,7 +25,7 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <h2 align="center">⟨ 💫 ABOUT ME ⟩</h2>
 
-<div align="center">
+<table align="center"><tr><td>
 
 ```yaml
 name:      Sayandeep Pradhan
@@ -36,7 +36,7 @@ focus:     Fast, polished, animation-rich web experiences
 mindset:   Always learning, building & improving 🌱
 ```
 
-</div>
+</td></tr></table>
 
 <br/>
 
@@ -83,9 +83,16 @@ Leading tech at **GameLiminals**, planning workflows in **Notion**, shipping via
 <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,netlify,cloudflare,notion&theme=dark" alt="tools"/>
 
 **Data & Creative**<br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,ps,lr&theme=dark" alt="creative"/>
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="photoshop"/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<sub>+ Framer Motion • Canva • Render</sub>
+**Also**<br/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </div>
 
