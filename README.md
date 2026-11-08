@@ -6,7 +6,7 @@
 
 ➤ Tech Lead at [GameLiminals](https://gameliminals.vercel.app)  
 ➤ Google Student Ambassador 2026  
-➤ Main Website Developer at VibeForge 1.0 Hackathon  
+➤ Main Website Developer at [VibeForge 1.0](https://vibeforge-1-0.tech) Hackathon  
 ➤ Check out my [Portfolio](https://sayandeep0212.vercel.app)  
 ➤ Support my work: [Buy me a coffee](https://buymeacoffee.com/sayandeep0e)  
 ➤ Reach me: [sayandeep0212@gmail.com](mailto:sayandeep0212@gmail.com)
