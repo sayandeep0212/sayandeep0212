@@ -1,4 +1,4 @@
-<a href="https://github.com/sayandeep0212"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsayandeep0212&label=profile%20views&icon=eye&color=%230d1117&message=&style=flat&tz=Asia%2FKolkata" alt="profile views"/></a>
+<a href="https://github.com/sayandeep0212"><img src="[https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsayandeep0212&label=profile%20views](https://komarev.com/ghpvc/?username=sayandeep0212&label=Profile%20Views&icon=eye&color=%230d1117&message=&style=flat&tz=Asia%2FKolkata" alt="profile views"/></a>
 
 ### Sayandeep Pradhan
 
