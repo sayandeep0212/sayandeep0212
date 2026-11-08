@@ -1,5 +1,5 @@
 <a href="https://github.com/sayandeep0212"><img src="https://komarev.com/ghpvc/?username=sayandeep0212&label=Profile%20Views&icon=eye&color=%230d1117&message=&style=flat&tz=Asia%2FKolkata" alt="profile views"/></a>
-<img src="https://komarev.com/ghpvc/?username=sayandeep0212&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="views"/>
+
 ### Sayandeep Pradhan
 
 *Full Stack Developer who builds fast, clean and polished web apps, from idea to deployment.*
